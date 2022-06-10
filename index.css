@@ -1,0 +1,29 @@
+body{
+  background-color: #FAD4D4;
+  margin: 2rem;
+  padding: 1.5rem;
+}
+
+.kalvipx{
+  width: 8rem;
+}
+
+h1{
+  text-align: center;
+  color: #354259;
+}
+
+.write{
+  font-size: 20px;
+  padding: 2rem;
+}
+
+.write2{
+  font-size: 20px;
+  padding: 2rem;
+  background-color:#F47C7C;
+}
+
+.write3{
+text-align: center; 
+}
